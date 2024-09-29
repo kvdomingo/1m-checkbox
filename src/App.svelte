@@ -2,7 +2,7 @@
   import { Checkbox } from "$lib/components/ui/checkbox";
   import { Label } from "$lib/components/ui/label";
 
-  const checks = Array(1000).fill(false);
+  const checks = Array(10000).fill(false);
 </script>
 
 <main
